@@ -1,2 +1,2 @@
 # DataScience_journey
-Collection of Data Related files or works.
+Collection of Data Related files or works using Datacamp
